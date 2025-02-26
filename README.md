@@ -4,11 +4,13 @@ In this project, we'll build a real-time chat application using Node.js, Express
 **Steps to Setup:**
 
 Step 1: clone the project
+
 git clone https://github.com/pecgovind/building-a-real-time-chat--app-with-nodejs.git
 
 Step 2: Install dependency
 
 npm install
+
 Step 3: Run the project
 
 npm start
